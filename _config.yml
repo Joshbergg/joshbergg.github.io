@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Joshua Bergman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Recent Finance Graduate with markets experience"
   location         : "New York, New York"
   email            : "joshuabergmanapplications@gmail.com"
   links:
@@ -282,7 +282,7 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-  - scope: 
+  - scope:
       path: ""
       type: posts
     values:
@@ -293,7 +293,7 @@ defaults:
       share: true
       related: true
   # _pages
-  - scope:
+  - scope: 
     path: ""
     type: pages
   values:
